@@ -1,4 +1,4 @@
-# Predictions on the breast cancer Wisconsin data set after featre reduction
+# Predictions on the breast cancer Wisconsin data set after feature reduction
 
 In this repository, I demonstrate the standard workflow of a data science project which include steps like 
 + data preprocessing ,
